@@ -1,0 +1,3 @@
+# Optional: only needed for the KWin (Wayland/X11) scripting backend.
+# The generic X11 EWMH backend and --mock run on the stdlib alone.
+dbus-next>=0.2.3
